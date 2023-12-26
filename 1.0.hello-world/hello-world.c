@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
 	puts("Hellow world!");
 	return 0;
 }
